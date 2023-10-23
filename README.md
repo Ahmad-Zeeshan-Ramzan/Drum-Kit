@@ -4,7 +4,7 @@ Welcome to the Drum Kit Game! This is a fun and interactive web application that
 
 ## Demo
 
-You can check out the live demo of the Drum Kit Game here: [Demo Link](#)
+You can check out the live demo of the Drum Kit Game here: https://ahmad-zeeshan-ramzan.github.io/Drum-Kit/
 
 ## Getting Started
 
